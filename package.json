@@ -33,7 +33,7 @@
     "algoliasearch": "^4.8.5",
     "babel-loader": "^8.1.0",
     "babel-preset-vue": "^2.0.2",
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "css-loader": "^4.2.2",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.19.0",
