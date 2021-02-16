@@ -54,7 +54,7 @@
     "style-loader": "^1.2.1",
     "throttle-debounce": "2.3.0",
     "transliteration": "^2.1.11",
-    "ts-loader": "^8.0.3",
+    "ts-loader": "^8.0.17",
     "typescript": "^4.0.2",
     "url-loader": "^4.1.1",
     "vite": "^1.0.0-rc.4",
